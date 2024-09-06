@@ -1,0 +1,11 @@
+C:\Users\kpratka07\OneDrive - Texas A&M University\ISTM 601\Homework\HW1\PratkaKesliCalculateLetterGrade\PratkaKesliCalculateLetterGrade\bin\Debug\PratkaKesliCalculateLetterGrade.exe.config
+C:\Users\kpratka07\OneDrive - Texas A&M University\ISTM 601\Homework\HW1\PratkaKesliCalculateLetterGrade\PratkaKesliCalculateLetterGrade\bin\Debug\PratkaKesliCalculateLetterGrade.exe
+C:\Users\kpratka07\OneDrive - Texas A&M University\ISTM 601\Homework\HW1\PratkaKesliCalculateLetterGrade\PratkaKesliCalculateLetterGrade\bin\Debug\PratkaKesliCalculateLetterGrade.pdb
+C:\Users\kpratka07\OneDrive - Texas A&M University\ISTM 601\Homework\HW1\PratkaKesliCalculateLetterGrade\PratkaKesliCalculateLetterGrade\obj\Debug\PratkaKesliCalculateLetterGrade.csproj.AssemblyReference.cache
+C:\Users\kpratka07\OneDrive - Texas A&M University\ISTM 601\Homework\HW1\PratkaKesliCalculateLetterGrade\PratkaKesliCalculateLetterGrade\obj\Debug\PratkaKesliCalculateLetterGrade.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpratka07\OneDrive - Texas A&M University\ISTM 601\Homework\HW1\PratkaKesliCalculateLetterGrade\PratkaKesliCalculateLetterGrade\obj\Debug\PratkaKesliCalculateLetterGrade.frmCalculateLetterGrade.resources
+C:\Users\kpratka07\OneDrive - Texas A&M University\ISTM 601\Homework\HW1\PratkaKesliCalculateLetterGrade\PratkaKesliCalculateLetterGrade\obj\Debug\PratkaKesliCalculateLetterGrade.Properties.Resources.resources
+C:\Users\kpratka07\OneDrive - Texas A&M University\ISTM 601\Homework\HW1\PratkaKesliCalculateLetterGrade\PratkaKesliCalculateLetterGrade\obj\Debug\PratkaKesliCalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\kpratka07\OneDrive - Texas A&M University\ISTM 601\Homework\HW1\PratkaKesliCalculateLetterGrade\PratkaKesliCalculateLetterGrade\obj\Debug\PratkaKesliCalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\kpratka07\OneDrive - Texas A&M University\ISTM 601\Homework\HW1\PratkaKesliCalculateLetterGrade\PratkaKesliCalculateLetterGrade\obj\Debug\PratkaKesliCalculateLetterGrade.exe
+C:\Users\kpratka07\OneDrive - Texas A&M University\ISTM 601\Homework\HW1\PratkaKesliCalculateLetterGrade\PratkaKesliCalculateLetterGrade\obj\Debug\PratkaKesliCalculateLetterGrade.pdb
